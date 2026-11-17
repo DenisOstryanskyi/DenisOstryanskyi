@@ -1,6 +1,6 @@
 # Hi, I'm Denis 👋
 
-**Aspiring software developer** · building systems, writing code, looking for interesting problems
+**Aspiring software developer** — building systems, writing code, looking for interesting problems
 
 I work with C#, C++, and Java, and I have hands-on experience with databases. I'm continuously improving my skills in all of them.
 
